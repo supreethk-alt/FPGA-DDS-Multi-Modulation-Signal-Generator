@@ -33,6 +33,7 @@ A reconfigurable FPGA-based multi-modulation signal generator implemented using 
 ## Architecture
 
 ![Block Diagram](images/Design_Architecture.png)
+![Block Diagram](images/Block_Diagram.png)
 
 ## Results
 
