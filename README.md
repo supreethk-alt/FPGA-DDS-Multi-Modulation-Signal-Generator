@@ -33,39 +33,39 @@ A reconfigurable FPGA-based multi-modulation signal generator implemented using 
 ## Architecture
 
 ![Block Diagram](images/Design_Architecture.png)
-![Block Diagram](images/Block_Diagram.png)
+![Block Diagram](images/Block_Diagram.jpeg)
 
 ## Results
 
 ### HDL Simulation Results
 
 #### Amplitude Modulation (AM)
-![AM Simulation](results/am_simulation.png)
+![AM Simulation](results/AM_Simulation.png)
 
 #### Frequency Modulation (FM)
-![FM Simulation](results/fm_simulation.png)
+![FM Simulation](results/FM_Simulation.png)
 
 #### Phase Modulation (PM)
-![PM Simulation](results/pm_simulation.png)
+![PM Simulation](results/PM_Simulation.png)
 
 #### Linear Frequency Modulation (LFM)
-![LFM Simulation](results/lfm_simulation.png)
+![LFM Simulation](results/LFM_Simulation.png)
 
 ---
 
 ### Hardware Validation (CRO Results)
 
 #### AM Output
-![AM CRO](results/am_cro.png)
+![AM CRO](results/AM.jpeg)
 
 #### FM Output
-![FM CRO](results/fm_cro.png)
+![FM CRO](results/FM.jpeg)
 
 #### PM Output
-![PM CRO](results/pm_cro.png)
+![PM CRO](results/PM.jpeg)
 
 #### LFM Output
-![LFM CRO](results/lfm_cro.png)
+![LFM CRO](results/LFM.jpeg)
 
 ## Future Enhancements
 
